@@ -1,0 +1,6 @@
+{
+  "name": "ZUNO CHAT",
+  "description": "Plataforma inteligente de atendimento e automação empresarial via WhatsApp. Atendimento inteligente. Automação sem limites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
